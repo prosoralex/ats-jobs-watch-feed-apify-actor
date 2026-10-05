@@ -1,0 +1,8 @@
+{
+  "name": "ats-jobs-watch-feed-example",
+  "private": true,
+  "type": "module",
+  "description": "Client example for the Greenhouse Jobs Scraper: Lever & Ashby Job Feed Apify Actor",
+  "scripts": { "start": "node example.mjs" },
+  "dependencies": { "apify-client": "^2.9.0" }
+}
